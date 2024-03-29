@@ -1,8 +1,10 @@
 # Hi there, I'm Joan Plaja 👋
 
-As a DevOps engineer, I love crafting solutions from scratch and automating tasks to improve workflows, sparing no effort to eliminate all manual work. I'm passionate about testing every layer of the stack, from its roots to its pinnacle. A Linux enthusiast, I've honed my skills in Bash, Python, and currently exploring Go. 
+As a DevOps engineer, I love crafting solutions from scratch and automating tasks to improve workflows, sparing no effort to eliminate all manual work. I'm passionate about testing every layer of the stack, from its roots to its pinnacle. A Linux enthusiast, I've honed my skills in Bash, Python, and currently exploring Go. Additionally, I'm also maintaining my grandfather's paintings website, which you can visit at <a href="https://joanplajamateu.cat">https://joanplajamateu.cat</a>.
 
 Beyond all of that, I'm in love with my dog, and you'll often find me amidst nature, hiking and capturing pics of mountain peaks.
+
+Also i'm m
 
 Let's connect
 
