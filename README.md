@@ -4,8 +4,6 @@ As a DevOps engineer, I love crafting solutions from scratch and automating task
 
 Beyond all of that, I'm in love with my dog, and you'll often find me amidst nature, hiking and capturing pics of mountain peaks.
 
-Also i'm m
-
 Let's connect
 
 <a href="https://www.linkedin.com/in/joan-josep-plaja"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
